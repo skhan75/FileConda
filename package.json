@@ -1,0 +1,33 @@
+{
+  "name": "file-conda",
+  "version": "1.0.0",
+  "description": "A File Management tool that offers enhanced ability on top of fs",
+  "homepage": "https://github.com/skhan75/FileConda#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skhan75/FileConda"
+  },
+  "bugs": {
+    "url": "https://github.com/skhan75/FileConda/issues",
+    "email": "sami.ahmadkhan12@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "author": "Sami Ahmad Khan",
+  "license": "MIT",
+  "dependencies": {
+    "directory-tree": "^2.1.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "jest": "^23.2.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true,
+    "verbose": true
+  }
+}
