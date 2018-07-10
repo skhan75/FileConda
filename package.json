@@ -30,6 +30,11 @@
     "collectCoverage": true,
     "verbose": true
   },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "readme.md"
+  ],
   "keywords": [
     "fs",
     "file",
