@@ -1,6 +1,6 @@
 {
   "name": "file-conda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A File Management tool that offers enhanced ability on top of fs",
   "homepage": "https://github.com/skhan75/FileConda#readme",
   "repository": {
@@ -31,27 +31,27 @@
     "verbose": true
   },
   "keywords": [
-   "fs",
-   "file",
-   "file system",
-   "copy",
-   "directory",
-   "extra",
-   "mkdirp",
-   "mkdir",
-   "mkdirs",
-   "recursive",
-   "json",
-   "read",
-   "write",
-   "extra",
-   "delete",
-   "remove",
-   "touch",
-   "create",
-   "text",
-   "output",
-   "move",
-   "directory"
- ]
+    "fs",
+    "file",
+    "file system",
+    "copy",
+    "directory",
+    "extra",
+    "mkdirp",
+    "mkdir",
+    "mkdirs",
+    "recursive",
+    "json",
+    "read",
+    "write",
+    "extra",
+    "delete",
+    "remove",
+    "touch",
+    "create",
+    "text",
+    "output",
+    "move",
+    "directory"
+  ]
 }
