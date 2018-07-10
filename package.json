@@ -29,5 +29,29 @@
     "testEnvironment": "node",
     "collectCoverage": true,
     "verbose": true
-  }
+  },
+  "keywords": [
+   "fs",
+   "file",
+   "file system",
+   "copy",
+   "directory",
+   "extra",
+   "mkdirp",
+   "mkdir",
+   "mkdirs",
+   "recursive",
+   "json",
+   "read",
+   "write",
+   "extra",
+   "delete",
+   "remove",
+   "touch",
+   "create",
+   "text",
+   "output",
+   "move",
+   "directory"
+ ]
 }
