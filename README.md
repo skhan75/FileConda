@@ -5,13 +5,13 @@ This Library is an extension on 'fs' module and is exported as Node.js modules
 Using npm:
 
 ```
-$ npm i --save filey
+$ npm i --save file-conda
 ```
 
 In Node.js:
 
 ```
-const filey = require('filey')
+const fileConda = require('file-conda')
 ```
 
 ## Usage
